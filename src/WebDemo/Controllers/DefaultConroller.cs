@@ -20,7 +20,7 @@ namespace WebDemo.Controllers
         [HttpGet]
         public string Hello()
         {
-            return "正在访问 web";
+            return "web";
         }
     }
 }
